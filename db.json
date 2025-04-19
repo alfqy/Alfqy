@@ -1,1 +1,12 @@
-
+{
+  "ABC123": {
+    "username": "client1",
+    "password": "mypassword",
+    "expires": "2025-12-31"
+  },
+  "XYZ789": {
+    "username": "client2",
+    "password": "testpass",
+    "expires": "2025-06-30"
+  }
+}
